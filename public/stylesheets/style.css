@@ -1,0 +1,92 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.hr-border{
+  border-width: 3px;
+  border-right: 1px;
+}
+
+hr{
+  border-color:#005e84 ;
+}
+
+th,td{
+  padding-left: 60px;
+}
+
+th.text-muted-sz{
+font-size: 20px;
+color: #0598d3;
+padding-right: 10px;
+}
+
+.text-black{
+  text-decoration-color: black;
+}
+
+.cardbox-table{
+  margin-top: 5%;
+}
+
+
+table {
+  border-collapse: separate; 
+  border-spacing: 0 10px;
+}
+
+.border.rounded-0{
+  padding: 12px;
+  background-color: #005e84;
+  max-width: 259px;
+}
+
+.flex-container{
+  justify-content: center;
+}
+
+table.cardbox-table {
+  margin: 0 auto;
+}
+
+.card-header.text-center{
+  background-color: rgb(232, 232, 232);
+}
+
+.text-prmy {
+  color: #0598d3;
+}
+
+.box1 {
+  background-color: #00B7FF;
+  height: 20px;
+  width: 50%;
+}
+
+.box2 {
+  background-color: #00B7FF;
+  height: 20px;
+  width: 55%;
+}
+
+.box3 {
+  background-color: #00B7FF;
+  height: 20px;
+  width: 70%;
+}
+
+.box1,.box2,.box3{
+  float :left;
+}
+
+.table-box{
+  width: 200px;
+  border: 1px solid;
+  padding: 1px;
+  text-align: right;
+}
