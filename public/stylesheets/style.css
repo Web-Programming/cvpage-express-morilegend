@@ -90,3 +90,12 @@ table.cardbox-table {
   padding: 1px;
   text-align: right;
 }
+
+img{
+  height: 250px;
+  width: 233px;
+}
+
+.card.mt-5{
+  width: 900px;
+}
